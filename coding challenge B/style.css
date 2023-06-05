@@ -1,0 +1,59 @@
+*{margin:0;
+    padding:0;
+    Box-sizing: border-box;}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;}
+  
+#conteiner{
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    width: 870px;
+    height: 650px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    padding: 10px;}
+header>img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;}
+header>h2{
+    text-align: center;
+    color: rgb(11, 238, 15);
+    font-style: italic;}
+.link{
+    text-align:center ;
+    background:rgb(11, 238, 15);
+    background-size:30px 50px; 
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;}
+
+main{
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;}
+
+
+main>div{
+    margin-bottom: 10px;}
+
+h3{display: inline-block;}    
+
+    /* stato carica */
+#GinoCharge{
+    margin-right: 400px;
+    border: 12px solid rgb(240, 194, 10);
+  border-radius: 5px;}
+#MikeCharge{
+    margin-right: 250px;
+    border: 12px solid rgb(11, 238, 15);
+  border-radius: 5px;}
+#FedeCharge{
+    margin-right: 550px;
+    border: 12px solid rgb(193, 7, 7);
+  border-radius: 5px;}
+    
